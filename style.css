@@ -1,33 +1,69 @@
-.uvod{
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
-    border: 3px solid black;
-    padding: 25px;
+/*---------------------INDEX---------------------*/
+body{
+    font-family: monospace;
+    background-color: whitesmoke;
+    color: gray;
 }
-
-.janus{
-    background-color: green;
-    font-size: 12pt;
-    font-family: 'Times New Roman', Times, serif;
-    color: red;
-    border: 3px solid black;
-    padding: 25px;
+.slika{
+    border-radius: 50%;
+    height: 150px;
+    width: auto;
+    margin-right: 50px;
 }
-
-.duodiscus{
-    background-color: silver;
+.div1{
+    padding-top: 1px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: rgb(209, 108, 0);
+    height: 180px;
     font-size: 12pt;
-    font-family: 'Times New Roman', Times, serif;
-    color: green;
-    border: 3px solid black;
-    padding: 25px;
 }
-
-.arcus{
-    background-color: gold;
+.tocka{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: rgb(100, 100, 100);
+    display: inline-block;
+    margin-right: 5px;
+}
+.div2{
+    clear: left;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: rgb(209, 108, 0);
+}
+.div3{
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: rgb(209, 108, 0);
+}
+table{
+    padding-left: 0;
     font-size: 12pt;
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
-    border: 3px solid black;
-    padding: 25px;
+    border-spacing: 40px;
+}
+th{
+    text-align: center;
+    font-weight: bold;
+}
+.div4{
+    padding-top: 10px;
+    padding-left: 20px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-color: rgb(209, 108, 0);
+    font-size: 12pt;
+    height: 200px;
+}
+.div5{
+    font-size: 12pt;
+    padding: 10px;
+}
+/*--------------------KONTAKT--------------------*/
+.kontakt{
+    width: 300px;
 }
